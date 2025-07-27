@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+plotly
+streamlit
+requests
+google-api-python-client
+xlsxwriter
